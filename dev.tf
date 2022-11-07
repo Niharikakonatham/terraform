@@ -1,0 +1,8 @@
+project_id='proj-dev'
+region='US'
+function_src_bucket='cf-dev'
+input_bucket='input-dev'
+archive_bucket='archive-dev'
+gcs_location='df-dev'
+controller_service_account_email=''
+machine_type=''
