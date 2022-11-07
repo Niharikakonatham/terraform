@@ -1,0 +1,5 @@
+# Function dependencies, for example:
+# package>=version
+pysftp
+google-cloud-storage
+google-cloud-storage
